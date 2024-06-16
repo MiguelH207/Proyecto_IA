@@ -1,0 +1,419 @@
+content,sentiment
+"I am happy today.",happy
+"This movie is so boring.",sad
+"The concert was amazing!",excited
+"I feel stressed about the upcoming exam.",sad
+"I love this book.",happy
+"I am feeling lonely.",sad
+"I can't wait to see you!",excited
+"My heart is broken.",sad
+"She always makes me laugh.",happy
+"The news shocked me.",surprised
+"I feel so proud of you.",happy
+"Today was such a boring day.",bored
+"Seeing her smile brightens my day.",happy
+"The loss hit me hard.",sad
+"I'm nervous about the presentation.",anxious
+"The view from here is breathtaking.",amazed
+"I'm over the moon!",excited
+"This movie always makes me cry.",sad
+"He surprised me with flowers.",happy
+"I can't believe I won!",surprised
+"I find this lecture so dull.",bored
+"My hands are shaking with anticipation.",nervous
+"The sunset is absolutely stunning.",amazed
+"She broke my heart into pieces.",heartbroken
+"I'm feeling so hopeful about the future.",hopeful
+"That was such a hilarious joke!",amused
+"His kindness touched my soul.",touched
+"The exam results left me feeling disappointed.",disappointed
+"I'm filled with gratitude for your help.",grateful
+"The thunderstorm scared me.",fearful
+"The concert was electrifying.",excited
+"She told me the news gently.",calm
+"My mind is racing with ideas.",thoughtful
+"The surprise party was a success!",joyful
+"The silence is deafening.",lonely
+"I'm struggling to contain my anger.",angry
+"The thought of seeing her again fills me with joy.",excited
+"I feel so content in this moment.",content
+"His words filled me with warmth.",comforted
+"The news brought relief to my heart.",relieved
+"Her performance was mesmerizing.",mesmerized
+"I'm so proud of your achievements.",proud
+"The loneliness is overwhelming.",lonely
+"That was really scary.",fear
+"She looked so happy.",happy
+"He made me so angry.",anger
+"I feel so lonely sometimes.",sad
+"I'm feeling very calm today.",calm
+"I'm nervous about the interview.",nervous
+"His words were so hurtful.",sad
+"She's always so supportive.",grateful
+"The sunrise was breathtaking.",joyful
+"The thunder scared the dog.",fear
+"I love spending time with my family.",happy
+"I feel frustrated with this situation.",frustrated
+"The news was shocking.",shocked
+"I miss my friends.",lonely
+"I feel content with my life.",content
+"I'm overwhelmed with joy.",joyful
+"She always makes me laugh.",humorous
+"I feel so anxious about the presentation.",anxious
+"His speech was very inspiring.",inspired
+"I'm disappointed with the results.",disappointed
+"The sunset was beautiful.",happy
+"Reading a good book always cheers me up.",cheerful
+"I feel relieved after finishing my exams.",relieved
+"His kindness touched my heart.",touched
+"I'm proud of my achievements.",proud
+"The movie was disappointing.",disappointed
+"I'm in awe of her talent.",awe
+"I feel so grateful for their help.",grateful
+"Her laughter is contagious.",joyful
+"The storm left me feeling uneasy.",uneasy
+"I'm fascinated by the stars.",fascinated
+"The puppy's antics always make me smile.",amused
+"I feel indifferent about the decision.",indifferent
+"His generosity is heartwarming.",warmth
+"The news filled me with dread.",dread
+"Being at home makes me feel safe.",content
+"I can't believe they didn't cancel class.",frustrated
+"My mother's hug always comforts me.",comforted
+"The traffic today was horrendous.",frustrated
+"The smell of freshly brewed coffee makes me happy.",happy
+"Missing the bus puts me in a bad mood.",grumpy
+"I can't wait for the weekend to come.",excited
+"Talking to my best friend always cheers me up.",cheered
+"Last night's movie left me perplexed.",perplexed
+"The food was so delicious, it made me feel pampered.",pampered
+"Listening to classical music relaxes me completely.",relaxed
+"The constant noise from the neighborhood annoys me.",annoyed
+"Being surrounded by nature fills me with peace.",peaceful
+"His promotion news filled me with pride.",proud
+"The sudden thunder startled me.",startled
+"The game was so thrilling I couldn't look away.",excited
+"Being stuck in traffic makes me feel helpless.",helpless
+"Watching my team win always brings me great joy.",joyful
+"The artwork was so beautiful it left me amazed.",amazed
+"Being on the beach under the sun makes me feel alive.",alive
+"I'm feeling so excited about the upcoming vacation.",excited
+"The rain ruined our plans for the picnic.",sad
+"I was moved to tears by her heartfelt speech.",touched
+"His constant complaining annoys me.",annoyed
+"I'm thrilled to finally finish this project.",excited
+"The long wait at the doctor's office made me impatient.",impatient
+"Watching her dance fills me with admiration.",admiration
+"The unexpected gift brightened my day.",happy
+"I feel so touched by their kindness.",touched
+"Receiving a compliment from her made me feel appreciated.",appreciated
+"His speech was incredibly inspiring.",inspired
+"The cancellation of the flight disappointed me.",disappointed
+"I feel so calm when I'm by the ocean.",calm
+"Her constant support makes me feel grateful.",grateful
+"The fireworks display was breathtaking.",amazed
+"I'm filled with pride watching my child graduate.",proud
+"The constant rain makes me feel gloomy.",gloomy
+"His unexpected visit made me happy.",happy
+"The challenging hike left me feeling accomplished.",accomplished
+"I'm so relieved to hear that she's safe.",relieved
+"Listening to classical music soothes my soul.",soothed
+"The news of their engagement brought tears to my eyes.",tearful
+"I feel so energized after a good workout.",energized
+"The crowded mall makes me feel claustrophobic.",claustrophobic
+"Their argument made me feel uncomfortable.",uncomfortable
+"Seeing the sunrise always fills me with hope.",hopeful
+"I'm touched by the thoughtful gift.",touched
+"The movie's plot twist caught me off guard.",surprised
+"I feel so proud of my team's accomplishments.",proud
+"His singing voice is truly captivating.",captivated
+"I feel so relaxed after a long bath.",relaxed
+"The loss of my pet left me heartbroken.",heartbroken
+"I'm amazed by her ability to stay calm under pressure.",amazed
+"The unexpected rain ruined our outdoor plans.",sad
+"I'm thrilled about the upcoming trip.",excited
+"His constant complaining annoys me.",annoyed
+"Watching her perform fills me with admiration.",admiration
+"The news of their engagement brought tears to my eyes.",tearful
+"I feel so delighted to see you again.",happy
+"The delay in the train schedule frustrated me.",frustrated
+"Her warm smile always comforts me.",comforted
+"I'm amazed by his artistic talent.",amazed
+"Finishing this book made me feel accomplished.",accomplished
+"The loud music next door annoys me.",annoyed
+"Watching her dance fills me with admiration.",admiration
+"The unexpected rain ruined our outdoor plans.",sad
+"I'm thrilled about the opportunity to travel.",excited
+"Waiting in line at the grocery store makes me impatient.",impatient
+"His silly jokes always make me laugh.",humorous
+"I'm touched by their generosity.",touched
+"Receiving positive feedback made me feel appreciated.",appreciated
+"His speech was truly inspiring.",inspired
+"The cancellation of the event disappointed me.",disappointed
+"I find peace in reading by the fireplace.",calm
+"Her continuous support makes me feel grateful.",grateful
+"The breathtaking view from the mountaintop amazed me.",amazed
+"I'm filled with pride watching my team win.",proud
+"The rainy weather makes me feel gloomy.",gloomy
+"Surprising me with flowers made me happy.",happy
+"The challenging puzzle left me feeling accomplished.",accomplished
+"I'm relieved that the storm passed without incident.",relieved
+"Listening to classical music soothes my soul.",soothed
+"The unexpected news brought tears to my eyes.",tearful
+"I feel energized after a morning run.",energized
+"The crowded room makes me feel claustrophobic.",claustrophobic
+"Their heated argument made me uncomfortable.",uncomfortable
+"Seeing the sunrise fills me with hope.",hopeful
+"I'm touched by his thoughtful gesture.",touched
+"The unexpected plot twist in the movie surprised me.",surprised
+"I'm proud of my friend's achievements.",proud
+"His incredible performance captivated the audience.",captivated
+"I feel relaxed after a hot bath.",relaxed
+"The loss of my pet left me heartbroken.",heartbroken
+"I'm amazed by her ability to remain calm under pressure.",amazed
+"The unexpected rain ruined our picnic plans.",sad
+"I'm thrilled about the upcoming concert.",excited
+"His constant complaining annoys me.",annoyed
+"Watching her perform fills me with admiration.",admiration
+"The news of their engagement brought tears to my eyes.",tearful
+"I feel so delighted to see you again.",happy
+"The delay in the train schedule frustrated me.",frustrated
+"Her warm smile always comforts me.",comforted
+"I'm amazed by his artistic talent.",amazed
+"Finishing this book made me feel accomplished.",accomplished
+"The loud music next door annoys me.",annoyed
+"Watching her dance fills me with admiration.",admiration
+"The unexpected rain ruined our outdoor plans.",sad
+"I'm thrilled about the opportunity to travel.",excited
+"Waiting in line at the grocery store makes me impatient.",impatient
+"His silly jokes always make me laugh.",humorous
+"I'm touched by their generosity.",touched
+"Receiving positive feedback made me feel appreciated.",appreciated
+"His speech was truly inspiring.",inspired
+"The cancellation of the event disappointed me.",disappointed
+"I find peace in reading by the fireplace.",calm
+"Her continuous support makes me feel grateful.",grateful
+"The breathtaking view from the mountaintop amazed me.",amazed
+"I'm filled with pride watching my team win.",proud
+"The rainy weather makes me feel gloomy.",gloomy
+"Surprising me with flowers made me happy.",happy
+"The challenging puzzle left me feeling accomplished.",accomplished
+"I'm relieved that the storm passed without incident.",relieved
+"Listening to classical music soothes my soul.",soothed
+"The unexpected news brought tears to my eyes.",tearful
+"I feel energized after a morning run.",energized
+"The crowded room makes me feel claustrophobic.",claustrophobic
+"Their heated argument made me uncomfortable.",uncomfortable
+"Seeing the sunrise fills me with hope.",hopeful
+"I'm touched by his thoughtful gesture.",touched
+"The unexpected plot twist in the movie surprised me.",surprised
+"I'm proud of my friend's achievements.",proud
+"His incredible performance captivated the audience.",captivated
+"I feel relaxed after a hot bath.",relaxed
+"The loss of my pet left me heartbroken.",heartbroken
+"I'm amazed by her ability to remain calm under pressure.",amazed
+"The unexpected rain ruined our picnic plans.",sad
+"I'm thrilled about the upcoming concert.",excited
+"His constant complaining annoys me.",annoyed
+"Watching her perform fills me with admiration.",admiration
+"The news of their engagement brought tears to my eyes.",tearful
+"I feel so delighted to see you again.",happy
+"The delay in the train schedule frustrated me.",frustrated
+"Her warm smile always comforts me.",comforted
+"I'm amazed by his artistic talent.",amazed
+"Finishing this book made me feel accomplished.",accomplished
+"The loud music next door annoys me.",annoyed
+"Watching her dance fills me with admiration.",admiration
+"The unexpected rain ruined our outdoor plans.",sad
+"I'm thrilled about the opportunity to travel.",excited
+"Waiting in line at the grocery store makes me impatient.",impatient
+"His silly jokes always make me laugh.",humorous
+"I'm touched by their generosity.",touched
+"Receiving positive feedback made me feel appreciated.",appreciated
+"His speech was truly inspiring.",inspired
+"The cancellation of the event disappointed me.",disappointed
+"I find peace in reading by the fireplace.",calm
+"Her continuous support makes me feel grateful.",grateful
+"The breathtaking view from the mountaintop amazed me.",amazed
+"I'm filled with pride watching my team win.",proud
+"The rainy weather makes me feel gloomy.",gloomy
+"Surprising me with flowers made me happy.",happy
+"The challenging puzzle left me feeling accomplished.",accomplished
+"I'm relieved that the storm passed without incident.",relieved
+"Listening to classical music soothes my soul.",soothed
+"The unexpected news brought tears to my eyes.",tearful
+"I feel energized after a morning run.",energized
+"The crowded room makes me feel claustrophobic.",claustrophobic
+"Their heated argument made me uncomfortable.",uncomfortable
+"Seeing the sunrise fills me with hope.",hopeful
+"I'm touched by his thoughtful gesture.",touched
+"The unexpected plot twist in the movie surprised me.",surprised
+"I'm proud of my friend's achievements.",proud
+"His incredible performance captivated the audience.",captivated
+"I feel relaxed after a hot bath.",relaxed
+"The loss of my pet left me heartbroken.",heartbroken
+"I'm amazed by her ability to remain calm under pressure.",amazed
+"The unexpected rain ruined our picnic plans.",sad
+"I'm thrilled about the upcoming concert.",excited
+"His constant complaining annoys me.",annoyed
+"Watching her perform fills me with admiration.",admiration
+"The news of their engagement brought tears to my eyes.",tearful
+"I feel so delighted to see you again.",happy
+"The delay in the train schedule frustrated me.",frustrated
+"Her warm smile always comforts me.",comforted
+"I'm amazed by his artistic talent.",amazed
+"Finishing this book made me feel accomplished.",accomplished
+"The loud music next door annoys me.",annoyed
+"Watching her dance fills me with admiration.",admiration
+"The unexpected rain ruined our outdoor plans.",sad
+"I'm thrilled about the opportunity to travel.",excited
+"Waiting in line at the grocery store makes me impatient.",impatient
+"His silly jokes always make me laugh.",humorous
+"I'm touched by their generosity.",touched
+"Receiving positive feedback made me feel appreciated.",appreciated
+"His speech was truly inspiring.",inspired
+"The cancellation of the event disappointed me.",disappointed
+"I find peace in reading by the fireplace.",calm
+"Her continuous support makes me feel grateful.",grateful
+"The breathtaking view from the mountaintop amazed me.",amazed
+"I'm filled with pride watching my team win.",proud
+"The rainy weather makes me feel gloomy.",gloomy
+"Surprising me with flowers made me happy.",happy
+"The challenging puzzle left me feeling accomplished.",accomplished
+"I'm relieved that the storm passed without incident.",relieved
+"Listening to classical music soothes my soul.",soothed
+"The unexpected news brought tears to my eyes.",tearful
+"I feel energized after a morning run.",energized
+"The crowded room makes me feel claustrophobic.",claustrophobic
+"Their heated argument made me uncomfortable.",uncomfortable
+"Seeing the sunrise fills me with hope.",hopeful
+"I'm touched by his thoughtful gesture.",touched
+"The unexpected plot twist in the movie surprised me.",surprised
+"I'm proud of my friend's achievements.",proud
+"His incredible performance captivated the audience.",captivated
+"I feel relaxed after a hot bath.",relaxed
+"The loss of my pet left me heartbroken.",heartbroken
+"I'm amazed by her ability to remain calm under pressure.",amazed
+"The unexpected rain ruined our picnic plans.",sad
+"I'm thrilled about the upcoming concert.",excited
+"His constant complaining annoys me.",annoyed
+"Watching her perform fills me with admiration.",admiration
+"The news of their engagement brought tears to my eyes.",tearful
+"I feel so delighted to see you again.",happy
+"The delay in the train schedule frustrated me.",frustrated
+"Her warm smile always comforts me.",comforted
+"I'm amazed by his artistic talent.",amazed
+"Finishing this book made me feel accomplished.",accomplished
+"The loud music next door annoys me.",annoyed
+"Watching her dance fills me with admiration.",admiration
+"The unexpected rain ruined our outdoor plans.",sad
+"I'm thrilled about the opportunity to travel.",excited
+"Waiting in line at the grocery store makes me impatient.",impatient
+"His silly jokes always make me laugh.",humorous
+"I'm touched by their generosity.",touched
+"Receiving positive feedback made me feel appreciated.",appreciated
+"His speech was truly inspiring.",inspired
+"The cancellation of the event disappointed me.",disappointed
+"I find peace in reading by the fireplace.",calm
+"Her continuous support makes me feel grateful.",grateful
+"The breathtaking view from the mountaintop amazed me.",amazed
+"I'm filled with pride watching my team win.",proud
+"The rainy weather makes me feel gloomy.",gloomy
+"Surprising me with flowers made me happy.",happy
+"The challenging puzzle left me feeling accomplished.",accomplished
+"I'm relieved that the storm passed without incident.",relieved
+"Listening to classical music soothes my soul.",soothed
+"The unexpected news brought tears to my eyes.",tearful
+"I feel energized after a morning run.",energized
+"The crowded room makes me feel claustrophobic.",claustrophobic
+"Their heated argument made me uncomfortable.",uncomfortable
+"Seeing the sunrise fills me with hope.",hopeful
+"I'm touched by his thoughtful gesture.",touched
+"The unexpected plot twist in the movie surprised me.",surprised
+"I'm proud of my friend's achievements.",proud
+"His incredible performance captivated the audience.",captivated
+"I feel relaxed after a hot bath.",relaxed
+"The loss of my pet left me heartbroken.",heartbroken
+"I'm amazed by her ability to remain calm under pressure.",amazed
+"The unexpected rain ruined our picnic plans.",sad
+"I'm thrilled about the upcoming concert.",excited
+"His constant complaining annoys me.",annoyed
+"Watching her perform fills me with admiration.",admiration
+"The news of their engagement brought tears to my eyes.",tearful
+"I feel so delighted to see you again.",happy
+"The delay in the train schedule frustrated me.",frustrated
+"Her warm smile always comforts me.",comforted
+"I'm amazed by his artistic talent.",amazed
+"Finishing this book made me feel accomplished.",accomplished
+"The loud music next door annoys me.",annoyed
+"Watching her dance fills me with admiration.",admiration
+"The unexpected rain ruined our outdoor plans.",sad
+"I'm thrilled about the opportunity to travel.",excited
+"Waiting in line at the grocery store makes me impatient.",impatient
+"His silly jokes always make me laugh.",humorous
+"I'm touched by their generosity.",touched
+"Receiving positive feedback made me feel appreciated.",appreciated
+"His speech was truly inspiring.",inspired
+"The cancellation of the event disappointed me.",disappointed
+"I find peace in reading by the fireplace.",calm
+"Her continuous support makes me feel grateful.",grateful
+"The breathtaking view from the mountaintop amazed me.",amazed
+"I'm filled with pride watching my team win.",proud
+"The rainy weather makes me feel gloomy.",gloomy
+"Surprising me with flowers made me happy.",happy
+"The challenging puzzle left me feeling accomplished.",accomplished
+"I'm relieved that the storm passed without incident.",relieved
+"Listening to classical music soothes my soul.",soothed
+"The unexpected news brought tears to my eyes.",tearful
+"I feel energized after a morning run.",energized
+"The crowded room makes me feel claustrophobic.",claustrophobic
+"Their heated argument made me uncomfortable.",uncomfortable
+"Seeing the sunrise fills me with hope.",hopeful
+"I'm touched by his thoughtful gesture.",touched
+"The unexpected plot twist in the movie surprised me.",surprised
+"I'm proud of my friend's achievements.",proud
+"His incredible performance captivated the audience.",captivated
+"I feel relaxed after a hot bath.",relaxed
+"The loss of my pet left me heartbroken.",heartbroken
+"I'm amazed by her ability to remain calm under pressure.",amazed
+"The unexpected rain ruined our picnic plans.",sad
+"I'm thrilled about the upcoming concert.",excited
+"His constant complaining annoys me.",annoyed
+"Watching her perform fills me with admiration.",admiration
+"The news of their engagement brought tears to my eyes.",tearful
+"I feel so delighted to see you again.",happy
+"The delay in the train schedule frustrated me.",frustrated
+"Her warm smile always comforts me.",comforted
+"I'm amazed by his artistic talent.",amazed
+"Finishing this book made me feel accomplished.",accomplished
+"The loud music next door annoys me.",annoyed
+"Watching her dance fills me with admiration.",admiration
+"The unexpected rain ruined our outdoor plans.",sad
+"I'm thrilled about the opportunity to travel.",excited
+"Waiting in line at the grocery store makes me impatient.",impatient
+"His silly jokes always make me laugh.",humorous
+"I'm touched by their generosity.",touched
+"Receiving positive feedback made me feel appreciated.",appreciated
+"His speech was truly inspiring.",inspired
+"The cancellation of the event disappointed me.",disappointed
+"I find peace in reading by the fireplace.",calm
+"Her continuous support makes me feel grateful.",grateful
+"The breathtaking view from the mountaintop amazed me.",amazed
+"I'm filled with pride watching my team win.",proud
+"The rainy weather makes me feel gloomy.",gloomy
+"Surprising me with flowers made me happy.",happy
+"The challenging puzzle left me feeling accomplished.",accomplished
+"I'm relieved that the storm passed without incident.",relieved
+"Listening to classical music soothes my soul.",soothed
+"The unexpected news brought tears to my eyes.",tearful
+"I feel energized after a morning run.",energized
+"The crowded room makes me feel claustrophobic.",claustrophobic
+"Their heated argument made me uncomfortable.",uncomfortable
+"Seeing the sunrise fills me with hope.",hopeful
+"I'm touched by his thoughtful gesture.",touched
+"The unexpected plot twist in the movie surprised me.",surprised
+"I'm proud of my friend's achievements.",proud
+"His incredible performance captivated the audience.",captivated
+"I feel relaxed after a hot bath.",relaxed
+"The loss of my pet left me heartbroken.",heartbroken
+"I'm amazed by her ability to remain calm under pressure.",amazed
